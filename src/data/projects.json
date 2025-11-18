@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "AI-Powered Task Manager",
+    "description": "Smart task management app dengan AI suggestions untuk productivity optimization.",
+    "tech": ["React", "TypeScript", "OpenAI API", "Supabase"],
+    "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&q=80",
+    "demo": "#",
+    "github": "#",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "3D Portfolio Experience",
+    "description": "Interactive 3D portfolio dengan smooth animations dan immersive storytelling.",
+    "tech": ["Three.js", "React Three Fiber", "GSAP", "Framer Motion"],
+    "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=800&q=80",
+    "demo": "#",
+    "github": "#",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "title": "Real-time Collaboration Tool",
+    "description": "Platform kolaborasi real-time untuk remote teams dengan video dan whiteboard.",
+    "tech": ["Next.js", "WebRTC", "Socket.io", "PostgreSQL"],
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80",
+    "demo": "#",
+    "github": "#",
+    "featured": false
+  },
+  {
+    "id": 4,
+    "title": "Design System Builder",
+    "description": "Tool untuk generate dan maintain design systems dengan automatic documentation.",
+    "tech": ["React", "Storybook", "Tailwind CSS", "TypeScript"],
+    "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=800&q=80",
+    "demo": "#",
+    "github": "#",
+    "featured": true
+  },
+  {
+    "id": 5,
+    "title": "E-commerce Analytics Dashboard",
+    "description": "Comprehensive analytics dashboard untuk e-commerce dengan real-time insights.",
+    "tech": ["Vue.js", "D3.js", "Node.js", "MongoDB"],
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80",
+    "demo": "#",
+    "github": "#",
+    "featured": false
+  },
+  {
+    "id": 6,
+    "title": "Mobile Fitness Tracker",
+    "description": "AI-powered fitness tracker dengan personalized workout recommendations.",
+    "tech": ["React Native", "TensorFlow", "Firebase", "Redux"],
+    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&q=80",
+    "demo": "#",
+    "github": "#",
+    "featured": false
+  }
+]

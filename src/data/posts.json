@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Selamat datang di ruang digital saya!",
+    "type": "status",
+    "date": "2025-11-10",
+    "tags": ["personal", "intro"],
+    "excerpt": "Ini adalah fans page pribadi saya, tempat saya berbagi proyek, tools, dan tulisan. Welcome to my digital world! 🚀",
+    "content": "# Selamat datang!\n\nIni adalah ruang digital pribadi saya. Di sini saya akan berbagi berbagai hal:\n\n- **Proyek-proyek** yang sedang saya kerjakan\n- **Artikel & tulisan** tentang teknologi, design, dan kehidupan\n- **Tools & resources** yang berguna\n- **Update pribadi** dan pemikiran random\n\nJelajahi dan nikmati perjalanan di dunia digital saya!"
+  },
+  {
+    "id": 2,
+    "title": "Membangun Tool Otomasi Proyek",
+    "type": "project",
+    "date": "2025-10-05",
+    "tags": ["dev", "automation"],
+    "excerpt": "Cerita di balik tool kecil yang mempercepat workflow konstruksi digital.",
+    "content": "# Tool Otomasi Proyek\n\nProject ini lahir dari kebutuhan untuk mempercepat workflow dalam pengembangan. Dengan automation script yang saya buat, proses deployment menjadi 10x lebih cepat.\n\n## Tech Stack\n- Node.js\n- GitHub Actions\n- Docker\n\n## Hasil\nWaktu deployment berkurang dari 30 menit menjadi 3 menit!"
+  },
+  {
+    "id": 3,
+    "title": "Filosofi Design Modern",
+    "type": "article",
+    "date": "2025-09-20",
+    "tags": ["design", "ux", "tech"],
+    "excerpt": "Bagaimana prinsip minimalism dan functional design menciptakan pengalaman yang powerful.",
+    "content": "# Filosofi Design Modern\n\nDesign bukan hanya soal estetika. Ini tentang:\n\n1. **Fungsi** - Setiap elemen harus punya tujuan\n2. **Simplicity** - Less is more, always\n3. **Experience** - User experience adalah prioritas utama\n\nDi era modern ini, design yang baik adalah design yang tidak terlihat - ia bekerja secara natural dan intuitif."
+  },
+  {
+    "id": 4,
+    "title": "New exciting project coming soon! 👀",
+    "type": "status",
+    "date": "2025-11-08",
+    "tags": ["announcement"],
+    "excerpt": "Something big is cooking... Stay tuned!",
+    "content": "Big announcement coming soon! Working on something that will change the game. Can't reveal much yet, but trust me - it's going to be epic! 🔥"
+  },
+  {
+    "id": 5,
+    "title": "Journey ke 3D Web Development",
+    "type": "article",
+    "date": "2025-08-15",
+    "tags": ["3d", "webgl", "tech"],
+    "excerpt": "Dari zero hingga membuat interactive 3D experiences di web menggunakan Three.js dan React Three Fiber.",
+    "content": "# Journey ke 3D Web\n\n3D di web dulu terasa seperti magic. Tapi dengan tools modern seperti Three.js dan React Three Fiber, semuanya jadi lebih accessible.\n\n## Yang Saya Pelajari\n- WebGL fundamentals\n- Lighting & materials\n- Performance optimization\n- Interactive experiences\n\nHasil? Website yang immersive dan unforgettable!"
+  }
+]
